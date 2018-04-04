@@ -19,7 +19,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [self test2];
+    [self test1];
 }
 
 - (void)test2
